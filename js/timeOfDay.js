@@ -1,13 +1,12 @@
 function getDayTime(hours) {
-    if (hours > 20 || hours < 8)
+    if (hours > 18 || hours < 8)
         return "dark-theme";
-
-    if (hours > 8)
+    else
         return "light-theme";
 }
 
 $(function() {
-    tod = getDayTime(new Date().getHours())
+    let tod = getDayTime(new Date().getHours())
     document.body.className = tod;
     document.getElementById("HBO").src = "imgs/"+tod+"/HBO Max.png";
     document.getElementById("YouTubeTV").src = "imgs/"+tod+"/YouTubeTV.png";
