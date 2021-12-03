@@ -66,6 +66,11 @@
   --bs-body-bg: #222;
 }
 
+@font-face {
+  font-family: "TeslaFont";
+  src: url("../fonts/TESLA.ttf");
+}
+
 *,
 *::before,
 *::after {
@@ -112,6 +117,7 @@ hr:not([size]) {
 }
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+  font-family: TeslaFont, serif;
   margin-top: 0;
   margin-bottom: 0.5rem;
   font-weight: 500;
