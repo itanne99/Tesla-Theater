@@ -48,7 +48,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Screenshot of the webpage][product-screenshot]](https://example.com)
+[![Screenshot of the webpage][product-screenshot]](https://tesla.lukeido.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
