@@ -1,0 +1,58 @@
+{
+  "platforms": [
+    {
+      "name": "HBOMax",
+      "url": "https://play.hbomax.com/",
+      "light_theme": "/imgs/light_theme/HBO Max.png",
+      "dark_theme": "/imgs/dark_theme/HBO Max.png"
+    },
+    {
+      "name": "YoutubeTV",
+      "url": "https://tv.youtube.com/",
+      "light_theme": "/imgs/light_theme/YouTubeTV.png",
+      "dark_theme": "/imgs/dark_theme/YouTubeTV.png"
+    },
+    {
+      "name": "Hulu",
+      "url": "https://www.hulu.com",
+      "light_theme": "/imgs/light_theme/Hulu.png",
+      "dark_theme": "/imgs/dark_theme/Hulu.png"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://www.netflix.com",
+      "light_theme": "/imgs/light_theme/Netflix.png",
+      "dark_theme": "/imgs/dark_theme/Netflix.png"
+    },
+    {
+      "name": "Youtube",
+      "url": "https://www.youtube.com/",
+      "light_theme": "/imgs/light_theme/YouTube.png",
+      "dark_theme": "/imgs/dark_theme/YouTube.png"
+    },
+    {
+      "name": "Disney+",
+      "url": "https://www.disneyplus.com",
+      "light_theme": "/imgs/light_theme/Disney+.png",
+      "dark_theme": "/imgs/dark_theme/Disney+.png"
+    },
+    {
+      "name": "Plex",
+      "url": "https://app.plex.tv/desktop",
+      "light_theme": "/imgs/light_theme/Plex.png",
+      "dark_theme": "/imgs/dark_theme/Plex.png"
+    },
+    {
+      "name": "Twitch",
+      "url": "https://www.twitch.tv/",
+      "light_theme": "/imgs/light_theme/Twitch.png",
+      "dark_theme": "/imgs/dark_theme/Twitch.png"
+    },
+    {
+      "name": "FlixTor",
+      "url": "https://flixtor.video/home",
+      "light_theme": "/imgs/light_theme/FlixTor.png",
+      "dark_theme": "/imgs/dark_theme/FlixTor.png"
+    }
+  ]
+}
