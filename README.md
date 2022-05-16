@@ -1,70 +1,143 @@
-# Getting Started with Create React App
+<div id="top"></div>
+<!--
+*** Thanks for checking out the Best-README-Template. If you have a suggestion
+*** that would make this better, please fork the repo and create a pull request
+*** or simply open an issue with the tag "enhancement".
+*** Don't forget to give the project a star!
+*** Thanks again! Now go create something AMAZING! :D
+-->
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+<h3 align="center">Tesla Theater</h3>
 
-### `npm test`
+  <p align="center">
+    A webpage to be used in Tesla vehicles to access streaming sites in theater mode
+    <br />
+    <a href="https://github.com/itanne99/Tesla-Theater"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://tesla.lukeido.com">View Site</a>
+    ·
+    <a href="https://github.com/itanne99/Tesla-Theater/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/itanne99/Tesla-Theater/issues">Request Feature</a>
+  </p>
+</div>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-### `npm run build`
+[![Screenshot of the webpage][product-screenshot]](https://tesla.lukeido.com)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### Built With
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+* [Bootstrap](https://getbootstrap.com)
+* [JQuery](https://jquery.com)
+* [SunCalc](https://github.com/mourner/suncalc)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<!-- USAGE EXAMPLES -->
+## Usage
+The webpage will change it's theme based on the time of day of the device and location. The location is <strong>solely</strong> used to find the client's location to determine if it is night or day and no data is stored or kept.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<!-- ROADMAP -->
+## Roadmap
 
-### Code Splitting
+- No future features atm
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+See the [open issues](https://github.com/itanne99/Tesla-Theater/issues) for a full list of proposed features (and known issues).
 
-### Analyzing the Bundle Size
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<!-- CONTRIBUTING -->
+## Contributing
 
-### Advanced Configuration
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
 
-### Deployment
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-### `npm run build` fails to minify
+<!-- CONTACT -->
+## Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Ido Tanne - IdoTanne@lukeido.com
+
+Project Link: [https://github.com/itanne99/Tesla-Theater](https://github.com/itanne99/Tesla-Theater)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+* [Tesla Motors](https://www.tesla.com/)
+* [SunCalc](https://github.com/mourner/suncalc)
+* [ABetterTheater](https://abettertheater.com/)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## Buy me a coffee
+- [Venmo](https://account.venmo.com/u/Ido-Tanne)
+
+- [PayPal](https://www.paypal.com/paypalme/IdoTanne)
+
+- Ethereum Wallet: 0x4f55ff2B339d1bC1F3FEF5dcd14c927126ed98A0
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/itanne99/Tesla-Theater.svg?style=for-the-badge
+[contributors-url]: https://github.com/itanne99/Tesla-Theater/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/itanne99/Tesla-Theater.svg?style=for-the-badge
+[forks-url]: https://github.com/itanne99/Tesla-Theater/network/members
+[stars-shield]: https://img.shields.io/github/stars/itanne99/Tesla-Theater.svg?style=for-the-badge
+[stars-url]: https://github.com/itanne99/Tesla-Theater/stargazers
+[issues-shield]: https://img.shields.io/github/issues/itanne99/Tesla-Theater.svg?style=for-the-badge
+[issues-url]: https://github.com/itanne99/Tesla-Theater/issues
+[license-shield]: https://img.shields.io/github/license/itanne99/Tesla-Theater.svg?style=for-the-badge
+[license-url]: https://github.com/itanne99/Tesla-Theater/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/linkedin_username
+[product-screenshot]: imgs/screenshots/webpage.png
